@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+pymoo>=0.6
+matplotlib
+pillow
+# only for converting Fig. 2 to PDF, EPS and PNG (needs the Cairo library)
+cairosvg
+# optional, only for paper/checks/check_loadflow_nr.py:
+# pandapower

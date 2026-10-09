@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "Code and data for: Value-based and regulation-aware placement of sectionalizing switches, reclosers, and tie switches in distribution networks with AC-feasible two-stage restoration"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Yudiansyah
+    given-names: Hafizh Agus
+    affiliation: "Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia"
+  - family-names: Wibowo
+    given-names: Rony Seto
+    affiliation: "Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia"
+  - family-names: Wardana
+    given-names: Harjuan Aditya
+    affiliation: "Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia"
+abstract: >-
+  Exact evaluator and optimization experiments for the placement of manual
+  switches, remote-controlled switches, reclosers and tie switches in
+  distribution networks. The evaluator combines failure mode and effect
+  analysis, two-stage restoration with AC feasibility at four load levels,
+  the expected customer interruption cost and the guaranteed-service
+  compensation of Indonesian regulation. The repository contains the data of
+  the IEEE 33-bus, IEEE 69-bus, RBTS Bus 2 and Bawean (Indonesia) systems, the
+  results reported in the article and the scripts that reproduce its figures
+  and tables.
+keywords:
+  - distribution system reliability
+  - switch placement
+  - service restoration
+  - customer interruption cost
+  - regulatory compensation
+  - multi-objective optimization

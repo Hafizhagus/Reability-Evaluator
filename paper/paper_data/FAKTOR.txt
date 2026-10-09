@@ -1,0 +1,5 @@
+ECOST conversion factor: 1.7149 (= 164.2 / 68.5 / 1.3978; Canadian CPI 2025 = 164.2).
+front_*.csv and *_t60_h1.json (NSGA-II fronts and budget study): computed with the earlier factor 1.6543;
+their f2 values were multiplied by 164.2/158.4 = 1.036616162. All other columns are unchanged.
+e4.json, e5.json, e5bw.json and e4_analysis.json: computed with the factor 1.7149.
+(This file is checked by factor_guard.py.)
